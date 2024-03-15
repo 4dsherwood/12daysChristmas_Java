@@ -7,6 +7,11 @@ public class Main {
 
     public static String common(int day) {
         String dayString;
+        String[] dayStrings = new String[]{
+                "first",
+                "second",
+                "third",
+        };
         if (day == 1) {
             dayString = "first";
         } else if (day == 2) {
