@@ -6,9 +6,7 @@ public class Main {
     }
 
     public static String commonLyric(int day) {
-        String dayString;
-        dayString = toDayString(day);
-        return "On the " + dayString + " day of Christmas\n" +
+        return "On the " + toDayString(day) + " day of Christmas\n" +
                 "My true love gave to me:";
     }
 
