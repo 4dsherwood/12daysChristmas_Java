@@ -12,7 +12,7 @@ public class Main {
                 "second",
                 "third",
         };
-        dayString = dayStrings[day - 1];
+        dayString = toDayString(day);
         return "On the " + dayString + " day of Christmas\n" +
                 "My true love gave to me:";
     }
