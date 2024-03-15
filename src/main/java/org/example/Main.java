@@ -9,8 +9,10 @@ public class Main {
         String dayString;
         if (day == 1) {
             dayString = "first";
-        } else {
+        } else if (day == 2) {
             dayString = "second";
+        } else {
+            dayString = "third";
         }
         return "On the " + dayString + " day of Christmas\n" +
                 "My true love gave to me:";

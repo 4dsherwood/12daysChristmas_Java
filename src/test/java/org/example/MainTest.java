@@ -12,5 +12,8 @@ class MainTest {
         // test common code for second day
         assertEquals("On the second day of Christmas\n" +
                 "My true love gave to me:", Main.common(2));
+        // test common code for third day
+        assertEquals("On the third day of Christmas\n" +
+                "My true love gave to me:", Main.common(3));
     }
 }
