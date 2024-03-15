@@ -37,3 +37,8 @@ MAC SAYS: opt  for OPtions
 
 my mental model for inline is
  it does a dind and replace 
+
+IT is OK to keep 
+
+Drying takes time
+Drying should takes time  <--- share with Emily
