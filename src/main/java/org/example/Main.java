@@ -6,7 +6,13 @@ public class Main {
     }
 
     public static String common(int day) {
-        return "On the first day of Christmas\n" +
+        String dayString;
+        if (day == 1) {
+            dayString = "first";
+        } else {
+            dayString = "second";
+        }
+        return "On the " + dayString + " day of Christmas\n" +
                 "My true love gave to me:";
     }
 }
