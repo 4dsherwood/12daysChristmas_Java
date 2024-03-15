@@ -1,26 +1,14 @@
-Netflix tips
-The Circle  
-good for a coach to watch
-mob with the chat bot...
-
-Apple:   coach of british football Ted Lasso
-Young Royals ←- swedish Netflix (youth series)
-
-LINK to Emily Bache's Samman Learning Hour using Cyber-dojo.org for TDD
-Master Coding with Cyber-Dojo: Step-by-Step TDD Practice
-Days of Christmas in Python
-
-
-TODO:
-Diamond kata for
-using different types of asserts
-weakest assertion that still moves forward
-
-To say: 
-do kata so many times that you know it in your sleep
-
 session 0
 https://cyber-dojo.org/kata/edit/wn6GvU
+
+Get out of this session
+joy of collab
+new ways to look at the 
+
+inside out
+smallest parts that we think we will make
+
+I would like to write a test for day one and then a test for day 2, and then a test that refactor the word first and second so that we can pass the word as a parameter, as an interger.
 
 TDD
 pitput that we want
