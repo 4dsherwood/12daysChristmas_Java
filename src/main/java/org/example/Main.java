@@ -18,6 +18,13 @@ public class Main {
     }
 
     public static String toDayString(int day) {
-        return "first";
+        String dayString;
+        String[] dayStrings = new String[]{
+                "first",
+                "second",
+                "third",
+        };
+        dayString = dayStrings[day - 1];
+        return dayString;
     }
 }
