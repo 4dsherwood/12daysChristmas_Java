@@ -12,13 +12,7 @@ public class Main {
                 "second",
                 "third",
         };
-        if (day == 1) {
-            dayString = "first";
-        } else if (day == 2) {
-            dayString = "second";
-        } else {
-            dayString = "third";
-        }
+        dayString = dayStrings[day - 1];
         return "On the " + dayString + " day of Christmas\n" +
                 "My true love gave to me:";
     }
