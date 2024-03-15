@@ -31,3 +31,9 @@ we can test only in the ToDay string test
 TEst this type of behavior ONCE
 IT does not need to RETEST  it for EVERYTHING
  
+
+pc says: ALTERNATE  ALT
+MAC SAYS: opt  for OPtions
+
+my mental model for inline is
+ it does a dind and replace 
