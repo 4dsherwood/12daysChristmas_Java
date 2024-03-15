@@ -18,3 +18,16 @@ weakest assertion that still moves forward
 
 To say:
 do kata so many times that you know it in your sleep
+
+toDay string
+
+as long as we trust that method name commonLyric will always use the new ToDay string that
+ we created before
+
+we want to test that the delegation that it does works correctly 
+
+we can test only in the ToDay string test
+
+TEst this type of behavior ONCE
+IT does not need to RETEST  it for EVERYTHING
+ 

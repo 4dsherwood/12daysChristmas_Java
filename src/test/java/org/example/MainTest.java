@@ -16,4 +16,9 @@ class MainTest {
         assertEquals("On the third day of Christmas\n" +
                 "My true love gave to me:", Main.common(3));
     }
+
+    @Test
+    void toDayString() {
+        assertEquals("first", Main.toDayString(1));
+    }
 }

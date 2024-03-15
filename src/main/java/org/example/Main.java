@@ -16,4 +16,8 @@ public class Main {
         return "On the " + dayString + " day of Christmas\n" +
                 "My true love gave to me:";
     }
+
+    public static String toDayString(int day) {
+        return "first";
+    }
 }
