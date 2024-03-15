@@ -8,13 +8,13 @@ class MainTest {
     @Test
     void commonLyrics() {
         assertEquals("On the first day of Christmas\n" +
-                "My true love gave to me:", Main.common(1));
+                "My true love gave to me:", Main.commonLyric(1));
         // test common code for second day
         assertEquals("On the second day of Christmas\n" +
-                "My true love gave to me:", Main.common(2));
+                "My true love gave to me:", Main.commonLyric(2));
         // test common code for third day
         assertEquals("On the third day of Christmas\n" +
-                "My true love gave to me:", Main.common(3));
+                "My true love gave to me:", Main.commonLyric(3));
     }
 
     @Test

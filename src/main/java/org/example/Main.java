@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public static String common(int day) {
+    public static String commonLyric(int day) {
         String dayString;
         String[] dayStrings = new String[]{
                 "first",
