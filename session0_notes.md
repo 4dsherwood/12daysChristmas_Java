@@ -1,4 +1,8 @@
-session 0
+session 0 = ~working agreement
+tabletop role playing 
+rather than session 1
+you have session 0 to levelset    to make sure everyone has a comfortable space in the space
+
 https://cyber-dojo.org/kata/edit/wn6GvU
 
 Get out of this session
